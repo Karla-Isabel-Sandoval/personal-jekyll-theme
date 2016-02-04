@@ -13,4 +13,4 @@ A few simple rules that have to be followed:
 2. If you are adding a new feature, update the respective documentation post.
 3. Make sure to test your changes on the mobile rendering as well. It's as important as the desktop view.
 4. Make sure that after your changes the website is responsive, with respect to performance. There should be no lagging and make sure that this is the case when using it in a weak mobile client.
-5. Squash your commits into one commit per ressolved issue.
+5. Squash your commits into one commit per resolved issue.
